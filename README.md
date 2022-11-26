@@ -1,6 +1,8 @@
 # cervical-cancer-screening
 Female cervix type detection on Intel MobileODT Cervical Cancer Screening Dataset using VGGIN-Net architecture.
 
+For more details refer to our our [GitHub repository on VGGIN-Net](https://github.com/SainiManisha/VGGIN-Net).
+
 ## Citation
 
 **If using this code, please cite our paper as:**
